@@ -1,3 +1,3 @@
-# Jupyter Solution Test
+# Jupyter Hints with Solution
 
-Simply a test extension to see if the solution file is passed successfully.
+Codio Coach extension for providing hints in Jupyter assignments, pointing to a propmpt on codio that now references a specific solution file directly in instructor view.
